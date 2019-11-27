@@ -7,6 +7,7 @@
 5) 	git add .				#Tracked all files
 6) 	git commit -m "message"			#Commit message
 7) 	git remote add origin repository_link	#Which repository you use for store.
+8) 	git push -u origin master		#
 
 
 7)	git log					#Show all previous commits
