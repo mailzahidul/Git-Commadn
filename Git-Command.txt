@@ -10,6 +10,6 @@
 8) 	git push -u origin master		#
 
 
-7)	git log					#Show all previous commits
-8)	git show commit_num			#What was change on this commit message.
+8)	git log					#Show all previous commits
+9)	git show commit_num			#What was change on this commit message.
 
