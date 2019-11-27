@@ -5,4 +5,4 @@
 3) 	git status		#Displays the state of the working directory and the staging area.(কোন ফাইল  githut এ Untracked অবস্থায় আছে)
 4)	git add	file_name	#Tracked those file or folder for store in github.
 5) 	git add .		#Tracked all files
-6) 	git
+6) 	git commit -m "message"	#
