@@ -1,8 +1,14 @@
 --Git Usual Commands --
 
-1)	git			#Show all git command.
-2) 	git init		#Initialized empty Git repository in desire folder.
-3) 	git status		#Displays the state of the working directory and the staging area.(কোন ফাইল  githut এ Untracked অবস্থায় আছে)
-4)	git add	file_name	#Tracked those file or folder for store in github.
-5) 	git add .		#Tracked all files
-6) 	git commit -m "message"	#
+1)	git					#Show all git command.
+2) 	git init				#Initialized empty Git repository in desire folder.
+3) 	git status				#Displays the state of the working directory and the staging area.(কোন ফাইল  githut এ Untracked অবস্থায় আছে)
+4)	git add	file_name			#Tracked those file or folder for store in github.
+5) 	git add .				#Tracked all files
+6) 	git commit -m "message"			#Commit message
+7) 	git remote add origin repository_link	#Which repository you use for store.
+
+
+7)	git log					#Show all previous commits
+8)	git show commit_num			#What was change on this commit message.
+
